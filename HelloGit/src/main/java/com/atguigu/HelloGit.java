@@ -7,5 +7,6 @@ public class HelloGit {
         System.out.println("分支1");
         System.out.println("分支1");
         System.out.println("分支1");
+        System.out.println("分支添加");
     }
 }
