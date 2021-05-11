@@ -1,4 +1,4 @@
-package com.bhlesson1;
+package com.bhlesson01.class01;
 
 public class HelloWorld {
     public static void main(String[] args) {

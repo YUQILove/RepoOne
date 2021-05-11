@@ -1,4 +1,4 @@
-package com.bhlesson1;
+package com.bhlesson01.class02;
 
 public class OperatorDemo {
     public static void main(String[] args) {

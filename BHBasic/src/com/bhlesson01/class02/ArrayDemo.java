@@ -1,4 +1,4 @@
-package com.bhlesson1;
+package com.bhlesson01.class02;
 
 /*定义格式：
      数据类型[] 数组名;
@@ -29,5 +29,6 @@ public class ArrayDemo {
             3：说明数组长度，就是数组中的元素个数；
 
      */
+        System.out.println(arr);
     }
 }
