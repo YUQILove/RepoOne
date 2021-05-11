@@ -33,7 +33,7 @@ package com.bhlesson01.class03;
   方法名称：sum
   参数列表：int a,int b
 
-  方法的三张调用格式：
+  方法的三种调用格式：
   1.单独调用：方法名称(参数);
   2.打印调用：System.out.println(方法名称(参数));
   3.赋值调用：数据类型 变量名称 = 方法名称(参数);
