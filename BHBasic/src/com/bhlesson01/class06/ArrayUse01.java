@@ -1,7 +1,6 @@
 package com.bhlesson01.class06;
 
 import java.util.Arrays;
-
 /*
 获取数组的长度
 格式：
