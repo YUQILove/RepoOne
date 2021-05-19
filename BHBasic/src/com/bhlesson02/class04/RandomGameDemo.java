@@ -31,7 +31,7 @@ public class RandomGameDemo {
                 System.out.println("猜大了");
             }else if (inputNum < randomNum){
                 System.out.println("猜小了");
-            }else if (inputNum == randomNum) {
+            }else {
                 System.out.println("猜对了");
                 break;
             }
