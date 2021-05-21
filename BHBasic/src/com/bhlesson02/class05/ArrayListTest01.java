@@ -1,7 +1,6 @@
 package com.bhlesson02.class05;
 
 import java.util.ArrayList;
-
 /*
 题目：
 自定义4个学生对象，添加到集合，并遍历
